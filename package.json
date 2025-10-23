@@ -1,6 +1,6 @@
 {
   "name": "@zh2s/react-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Сборник полезных утилит, хуков, HOCов для реакта",
   "main": "./build/index.js",
   "type": "module",
